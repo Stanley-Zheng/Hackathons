@@ -2,6 +2,8 @@
 
 ## My completed hackathons and related resources
 
+If you prefer to browse on your own, here is my [Devpost profile](https://devpost.com/Stanley-Zheng) and my [Kaggle profile](https://www.kaggle.com/stanleyjzheng). 
+
 #### Ignition hacks
 Summary: Ignitionhacks is a machine learning competition. We were given a NLP classification dataset of 1 million tweets, for which we had 2 days to optimize our solution on a test set of 600 thousand tweets. I used roBERTa and 2 folds of pseudolabelling, more details and source code available at the GitHub repo below.
 
